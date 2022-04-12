@@ -1,0 +1,10 @@
+.card{
+  margin-left: 13px;
+  margin-top: 13px;
+  width: 12.8rem!important;
+}
+.card-text{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
